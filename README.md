@@ -1,5 +1,10 @@
 # PlaceHub – Student Placement Dashboard
 
+## Demo
+
+[**Student Placement Dashboard**](https://student-placement-dashboard.netlify.app/)
+
+
 A responsive college placement portal built with **React 18, React Router 6, Context API, Recharts and Vite**. No backend required.
 
 ## Features
